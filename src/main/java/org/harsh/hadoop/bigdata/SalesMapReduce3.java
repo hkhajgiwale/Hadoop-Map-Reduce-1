@@ -21,6 +21,12 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+/*
+ *
+ * Question: Find the max and min units_sold in any order for each year by country for a given item type. Use a custom partitioner class instead of default hash based.
+ *
+ * */
+
 
 public class SalesMapReduce3 {
 	/*

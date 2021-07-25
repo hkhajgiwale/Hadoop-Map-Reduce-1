@@ -21,6 +21,13 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+/*
+ *
+ * Question: What are the top 10 order id for a given year by the total_profit.
+ *
+ * */
+
+
 public class SalesMapReduce4 {
 	
 	static final int topN = 10; //Finding the top 10 records for every year

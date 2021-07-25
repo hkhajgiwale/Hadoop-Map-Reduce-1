@@ -20,6 +20,11 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+/*
+ *
+ * Question: Find Average unit_price by country for a given item type in a certain year
+ *
+ * */
 public class SalesMapReduce1 {
 	/*
 	 * Logic for sorting country, item_type and year field

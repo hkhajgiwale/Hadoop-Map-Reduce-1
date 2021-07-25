@@ -20,6 +20,12 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 
+/*
+ *
+ * Question: Total units_sold by year for a given country and a given item type
+ *
+ * */
+
 public class SalesMapReduce2 {
 	/*
 	 * Logic for sorting country, item_type and year field
