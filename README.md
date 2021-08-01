@@ -1,4 +1,4 @@
-# HadoopGeoSalesMapReduce
+# Hadoop MapReduce Project 1
 Hadoop Big Data Analysis for Sales from Different Countries
 
 ### Problem Statement: 
